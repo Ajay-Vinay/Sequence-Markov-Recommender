@@ -1,7 +1,7 @@
 
 # Sequence-Aware Movie Recommender via Genre Markov Chain (with Context & MMR)
 
-This repo contains a **Colab** notebook that builds a **sequence-aware recommender** using a **first-order Markov chain** over movie **genres**, with **weekday vs weekend** context-specific transitions and an optional **MMR** diversity re-rank. It evaluates against a **global popularity** baseline on MovieLens **ml-latest-small** (~100k ratings).
+This repo contains a Colab notebook that builds a **sequence-aware recommender** using a **first-order Markov chain** over movie genres, with weekday vs weekend context-specific transitions and an optional MMR diversity re-rank. It evaluates against a global popularity baseline on MovieLens ml-latest-small (~100k ratings).
 
 ## How to Run (Colab)
 1. Open `Sequence_Markov_Recommender.ipynb` in Google Colab.
